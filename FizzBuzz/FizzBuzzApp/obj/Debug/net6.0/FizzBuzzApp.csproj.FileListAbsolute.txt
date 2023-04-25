@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\bin\Debug\net6.0\FizzBuzzApp.exe
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\bin\Debug\net6.0\FizzBuzzApp.deps.json
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\bin\Debug\net6.0\FizzBuzzApp.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\bin\Debug\net6.0\FizzBuzzApp.dll
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\bin\Debug\net6.0\FizzBuzzApp.pdb
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.dll
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\refint\FizzBuzzApp.dll
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.pdb
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\FizzBuzzApp.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Documents\sparta\C#\Advanced NUnit\AdvancedNUnit_Starter\AdvancedNUnit_Starter\AdvancedNUnit_TDD\FizzBuzz\FizzBuzzApp\obj\Debug\net6.0\ref\FizzBuzzApp.dll
